@@ -1,0 +1,24 @@
+h1{
+    color: yellowgreen;
+    text-align: center;
+    background-color: brown;
+    margin-top: 15px;
+}
+
+.container .jumbotron{
+background-color: aqua;
+margin-top: 100px;
+
+}
+ul{
+    /* text-align: center; */
+    margin-top: 20px;
+    
+}
+img{
+    height: 250px;
+    width: 300px;
+    margin: 30px;
+    
+    border: 5px solid rgb(182, 18, 168);
+}
